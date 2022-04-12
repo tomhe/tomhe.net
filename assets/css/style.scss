@@ -1,5 +1,13 @@
 @import "{{ site.theme }}";
 
 header {
-    display: none;
+    display: none !important;
+}
+
+footer {
+  display: none !important;
+}
+
+.btn-github {
+  display: none !important;
 }
