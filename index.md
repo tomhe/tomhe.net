@@ -1,7 +1,5 @@
-# tomhe.net
-
-* https://tomas.hellberg.name
-* https://rc.tomhe.net
-* https://twitter.com/tomhe
-* https://instagram.com/tomhel
-* [Youtube](https://www.youtube.com/channel/UCayYz0uzTzqtHtPVTZ4ubsQ)
+* [tomas.hellberg.name](https://tomas.hellberg.name)
+* [rc.tomhe.net](https://rc.tomhe.net)
+* [twitter.com/tomhe](https://twitter.com/tomhe)
+* [instagram.com/tomhel](https://instagram.com/tomhel)
+* [Youtube channel](https://www.youtube.com/channel/UCayYz0uzTzqtHtPVTZ4ubsQ)
