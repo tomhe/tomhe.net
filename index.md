@@ -11,4 +11,4 @@
 * [instagram.com/tomhel](https://instagram.com/tomhel)
 * [Youtube channel](https://www.youtube.com/channel/UCayYz0uzTzqtHtPVTZ4ubsQ)
 
-<address><p title="Tomas Hellberg"><u>Tom</u>as <u>He</u>llberg</p><p>Contact: tomhe at tomhe dot net</p>
+<address>Contact: tomhe at tomhe dot net</address>
