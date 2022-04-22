@@ -1,1 +1,4 @@
 
+## Vätternsimmaren
+
+![Vätternsimmaren](./poster.jpg)
