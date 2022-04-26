@@ -15,11 +15,13 @@ footer {
   display: none !important;
 }
 
-/*
-h1 {
-  font-size: large !important;
+header h1 {
+    margin: 0 0 0 0 !important;
 }
-*/
+
+header h1::before {
+    content: "" !important;
+}
 
 .video-container {
   position: relative;
