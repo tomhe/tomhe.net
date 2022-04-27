@@ -23,6 +23,10 @@ header h1::before {
     content: "" !important;
 }
 
+td {
+  vertical-align: top;
+}
+
 .video-container {
   position: relative;
   width: 100%;
