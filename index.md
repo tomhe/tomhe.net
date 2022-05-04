@@ -1,3 +1,11 @@
+---
+title: tomhe
+description: Home of Tomas Hellberg (tomhe)
+author:
+  twitter: tomhe
+twitter:
+  username: tomhe
+---
 ## Stuff that I made
 
 * [rc.tomhe.net](https://rc.tomhe.net)<br/>Plans for radio-controlled model airplanes
