@@ -14,6 +14,7 @@ description: Home of Tomas Hellberg (tomhe)
 * [twitter.com/tomhe](https://twitter.com/tomhe)
 * [instagram.com/tomhel](https://instagram.com/tomhel)
 * [strava.com/athletes/2295912](https://www.strava.com/athletes/2295912)
+* [https://keybase.io/tomhe](https://keybase.io/tomhe)
 * [Youtube channel](https://www.youtube.com/channel/UCayYz0uzTzqtHtPVTZ4ubsQ)
 
 <address>Contact: tomhe at tomhe dot net</address>
