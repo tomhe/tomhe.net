@@ -4,4 +4,16 @@ github:
   is_project_page: false
 title: /home/tomhe:$ <span class="blink">|</span>
 description: by <span title="Hompage of Tomas Hellberg Tomhe"><u>Tom</u>as <u>He</u>llberg</span>
-  
+author:
+  twitter: tomhe
+twitter:
+  username: tomhe
+social:
+  name: Tomas Hellberg
+  links:
+    - https://twitter.com/tomhe
+    - https://www.facebook.com/tomhe
+    - https://instagram.com/tomhel
+    - https://www.linkedin.com/in/tomas-hellberg-83205858/
+    - https://github.com/tomhe
+    - https://keybase.io/tomhe
