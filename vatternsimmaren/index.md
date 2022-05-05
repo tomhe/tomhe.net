@@ -1,5 +1,10 @@
-
+---
+title: Vätternsimmaren
+description: A documentary film following Andzej Bednarski's attempt to swim across Sweden's Lake Vättern.
+---
 ## Vätternsimmaren
+
+[Vätternsimmaren](https://www.youtube.com/watch?v=3VL5xEA_iPA) is my documentary film following my friend Andrzej Bednarski's attempt to swim across Sweden's Lake Vättern from Motala to Karlsborg. This is a distance of about 30 km in open water.
 
 <table>
     <tr>
