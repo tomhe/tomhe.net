@@ -1,10 +1,6 @@
 ---
 title: tomhe
 description: Home of Tomas Hellberg (tomhe)
-author:
-  twitter: tomhe
-twitter:
-  username: tomhe
 ---
 ## Stuff that I made
 
