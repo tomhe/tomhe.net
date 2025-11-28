@@ -18,3 +18,5 @@ social:
     - https://github.com/tomhe
     - https://keybase.io/tomhe
     - https://www.strava.com/athletes/2295912
+include:
+  - ".well-known"
